@@ -84,6 +84,9 @@ const mutation = new GraphQLObjectType({
                 })
                 .then(response => response.data)
             }
+        },
+        delUser: {
+            
         }
     }
 });
