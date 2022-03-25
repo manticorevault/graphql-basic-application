@@ -21,7 +21,14 @@
     {
       "firstName": "Marina",
       "age": 25,
-      "id": "OwJxa2T"
+      "id": "OwJxa2T",
+      "companyId": "1"
+    },
+    {
+      "firstName": "Romee",
+      "age": 31,
+      "id": "KEqxhZg",
+      "companyId": "2"
     }
   ],
   "companies": [
